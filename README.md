@@ -1,1 +1,1 @@
-These are some of my codes from Google Colab
+Here are pieces of my codes I made on Google Colab
